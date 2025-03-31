@@ -1,2 +1,2 @@
 # practice
-ibm data science certificaate
+IBM data science certificate
